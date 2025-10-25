@@ -1,73 +1,47 @@
-# Welcome to your Lovable project
+# 🧬 Prompt DNA  
+> **Visualize the Soul of AI Creativity.**  
+> _Where every prompt leaves a genetic trace of imagination._
 
-## Project info
 
-**URL**: https://lovable.dev/projects/519b983c-fedf-4c81-873f-008b940fc9a3
+---
 
-## How can I edit this code?
+## ⚡ Overview
+**Prompt DNA** is a next-gen AI visualization tool that decodes the *“genetic makeup”* of prompts.  
+Built during the **Maximally PromptStorm Hackathon**, it turns plain text into a living, breathing visualization of your creative process.  
 
-There are several ways of editing your application.
+🌀 _Because every great AI output starts with a spark of human imagination._
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/519b983c-fedf-4c81-873f-008b940fc9a3) and start prompting.
+## 🎨 Features
 
-Changes made via Lovable will be committed automatically to this repo.
+✨ **AI Gene Mapping** – See your prompt broken down into components: tone, logic, emotion, and intent.  
+⚡ **Real-time Visualization** – Watch your prompt evolve into dynamic DNA strands powered by animation.  
+🧠 **Insight Mode** – Analyze which parts of your prompt contribute most to creativity or chaos.  
+🎭 **Custom Themes** – Electric blue, neon yellow, and black — matching the Maximally “storm energy.”  
+🌩️ **Interactive Animations** – React-powered motion effects for every input.  
+💬 **Prompt History** – Track how your ideas mutate and improve.  
+🚀 **Zero Code Needed** – Works seamlessly in Lovable or on the web.  
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🧪 Tech Stack
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+| Layer | Tech |
+|-------|------|
+| 💻 Frontend | React (Lovable Export) |
+| 🎨 Styling | TailwindCSS + Framer Motion |
+| ⚙️ AI Engine | ChatGPT / Claude / Gemini Prompt Parsing |
+| 📊 Visualization | D3.js + Animated SVG |
+| ☁️ Hosting | Lovable / Vercel |
+| 🔒 Repo | [GitHub - Radoan-7/Prompt-DNA](https://github.com/Radoan-7/Prompt-DNA) |
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/519b983c-fedf-4c81-873f-008b940fc9a3) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 🌀 How It Works
+```mermaid
+graph TD;
+    A[Prompt Input] --> B[DNA Parser Engine];
+    B --> C[Gene Extraction: Logic, Emotion, Tone, Context];
+    C --> D[Animated Visualization];
+    D --> E[User Insights Dashboard];
